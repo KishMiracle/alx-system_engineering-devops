@@ -1,2 +1,2 @@
 #!/bin/bash
-path=`readlink -f "${BASH_SOUCE:-$0}"'\n
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )

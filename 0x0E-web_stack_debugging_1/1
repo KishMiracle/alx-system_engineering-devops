@@ -1,0 +1,2 @@
+./0-nginx_likes_port_80: line 6: sudo: command not found
+./0-nginx_likes_port_80: line 7: sudo: command not found
